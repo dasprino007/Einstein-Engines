@@ -1044,8 +1044,12 @@
   components:
   - type: Sprite
     layers:
-    - state: default
-    - state: idblueshield
+    - state: silver
+    - state: departmenthead
+      color: "#1B67A5"
+    - state: subdepartment
+      color: "#1B67A5"
+    - state: blueshield
   - type: PresetIdCard
     job: Blueshield
   
