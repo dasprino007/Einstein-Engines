@@ -1,5 +1,5 @@
 - type: entity
-  parent: [ClothingOuterArmorHoS, ClothingOuterStorageBase]
+  parent: [ClothingOuterArmorBasic, ClothingOuterStorageBase]
   id: ClothingOuterCoatBlueshield
   name: BsCoatName
   description: BsCoatDesc

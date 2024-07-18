@@ -40,10 +40,11 @@
     shoes: ClothingShoesBootsCombatFilled
     head: ClothingHeadHatBeretBlueshield
     gloves: ClothingHandsGlovesCombat
+    outerClothing: ClothingOuterVestBlueshield
     eyes: ClothingEyesGlassesBlueshield
     belt: ClothingBeltSecurityFilled
     id: BlueshieldPDA
     ears: ClothingHeadsetAltBlueshield
-  innerclothingskirt: ClothingUniformJumpskirtBlueshield
+  innerClothingSkirt: ClothingUniformJumpskirtBlueshield
   satchel: ClothingBackpackSatchelBlueshieldFilled
   duffelbag: ClothingBackpackDuffelBlueshieldFilled
