@@ -35,6 +35,18 @@
     - ClothingUniformJumpskirtGrayBlueshield
 
 - type: loadout
+  id: LoadoutCommandBsformal
+  category: Jobs
+  cost: 3
+  exclusive: true
+  requirements:
+    - !type:CharacterJobRequirement
+      jobs:
+        - Blueshield
+  items:
+    - ClothingUniformJumpsuitBSFormal
+
+- type: loadout
   id: LoadoutCommandBsOuterCoat
   category: Jobs
   cost: 2

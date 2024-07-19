@@ -13,6 +13,7 @@
       - id: ClothingBeltSecurityFilled
       - id: Flash
         prob: 0.5
+      - id: ClothingUniformJumpsuitBSFormal
       - id: ClothingUniformJumpsuitBlueshield
       - id: ClothingEyesGlassesBlueshield
       - id: ClothingHeadsetAltBlueshield

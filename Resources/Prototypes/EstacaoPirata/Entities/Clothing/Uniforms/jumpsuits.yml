@@ -19,3 +19,14 @@
     sprite: EstacaoPirata/Clothing/Uniforms/Jumpsuit/grayBlueshield.rsi
   - type: Clothing
     sprite: EstacaoPirata/Clothing/Uniforms/Jumpsuit/grayBlueshield.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitBSFormal
+  name: Blushield's formal suit
+  description: A suit for special occasions.
+  components:
+  - type: Sprite
+    sprite: EstacaoPirata/Clothing/Uniforms/Jumpsuit/formalBlueshield.rsi
+  - type: Clothing
+    sprite: EstacaoPirata/Clothing/Uniforms/Jumpsuit/formalBlueshield.rsi
