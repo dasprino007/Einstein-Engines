@@ -1,0 +1,47 @@
+- type: loadout
+  id: LoadoutCommandBsGreyBeret
+  category: Jobs
+  cost: 2
+  exclusive: true
+  requirements:
+    - !type:CharacterJobRequirement
+      jobs:
+        - Blueshield
+  items:
+    - ClothingHeadHatGrayBeretBlueshield
+
+- type: loadout
+  id: LoadoutCommandBsGreyJumpsuit
+  category: Jobs
+  cost: 3
+  exclusive: true
+  requirements:
+    - !type:CharacterJobRequirement
+      jobs:
+        - Blueshield
+  items:
+    - ClothingUniformJumpsuitGrayBlueshield
+
+- type: loadout
+  id: LoadoutCommandBsGreyJumpskirt
+  category: Jobs
+  cost: 3
+  exclusive: true
+  requirements:
+    - !type:CharacterJobRequirement
+      jobs:
+        - Blueshield
+  items:
+    - ClothingUniformJumpskirtGrayBlueshield
+
+- type: loadout
+  id: LoadoutCommandBsOuterCoat
+  category: Jobs
+  cost: 2
+  exclusive: true
+  requirements:
+    - !type:CharacterJobRequirement
+      jobs:
+        - Blueshield
+  items:
+    - ClothingOuterCoatBlueshield
